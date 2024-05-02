@@ -19,6 +19,7 @@
 
 <style scoped>
 .banner {
+  background-image:url("../assets/img/fundo-banner.png") ;
   padding: 4rem 7.5rem;
   color: var(--creme);
 
